@@ -28,7 +28,7 @@ Open index.html in a browser
 Navigate through the pages to explore features
 
 GitHub Repository:
-🔗 https://github.com/yourusername/cart-app-flexgrid
+🔗 https://github.com/JUVERIA-28/experiment2.git
 
 Live Output:
 🌐 https://your-live-link.com/cart-app-flexgrid
