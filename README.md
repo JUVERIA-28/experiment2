@@ -31,4 +31,5 @@ GitHub Repository:
 🔗 https://github.com/JUVERIA-28/experiment2.git
 
 Live Output:
-🌐 https://your-live-link.com/cart-app-flexgrid
+🌐 Your site is live at https://juveria-28.github.io/experiment2/
+
